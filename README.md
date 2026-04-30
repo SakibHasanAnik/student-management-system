@@ -172,7 +172,7 @@ This project follows basic security best practices:
 ## 👨‍💻 Author
 
 **Anik**
-Computer Science Student | Aspiring Software Engineer
+Computer Science Student
 
 ---
 
@@ -187,4 +187,3 @@ This project is built as a **DBMS academic project** and demonstrates:
 
 ---
 
-💡 *Feel free to fork, modify, and improve this project!*
